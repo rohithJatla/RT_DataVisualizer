@@ -41,3 +41,4 @@ def register_callbacks(app):
             return table
         except Exception as e:
             return f"Error: {str(e)}"
+            
